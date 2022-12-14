@@ -4,3 +4,4 @@ My goфд is to learn JS programming.
 I have no skill in IT yet.
 Course in a RS School my first.
 I speak English fluently. Livead and worked in the USA about a month.
+This CV is my first project.

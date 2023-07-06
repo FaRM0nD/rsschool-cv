@@ -12,7 +12,7 @@ Discord: farm0nd
 
 About Myself:
 
-I've never written code before. My goal is to find out what JS is. 
+I've never written code before. My goal is to find out what JS is. I hope to learn a lot of new and interesting things.
 Skills:
 I don't have any skills in JS yet.
 

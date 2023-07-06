@@ -8,6 +8,7 @@ E-mail: x.farm0nd@Gmail.com
 
 Telegram: @FaRM0nD
 
+Discord: farm0nd
 
 About Myself:
 
